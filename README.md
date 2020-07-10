@@ -1,1 +1,1 @@
-[![500x400](https://media.giphy.com/media/j0SrVwV9e95qWm7Gs2/giphy.gif "Anıl Gürses")](https://github.com/anilgurses)
+[![1000x400](https://media.giphy.com/media/Eqz8ZFUScPHH2/giphy.gif "Anıl Gürses")](https://github.com/anilgurses)
