@@ -5,3 +5,5 @@ I'm Anıl, a software developer at Turkey :tr: . Mostly interested in signal and
 
 - :computer: Currently working on: It's secret! :hushed:
 - :mailbox_with_mail: Contact: [anilgurses@ieee.org](mailto:anilgurses@ieee.org)
+
+<img width="60" height="21" src="https://views.whatilearened.today/views/github/anilgurses/anilgurses.svg"/>
