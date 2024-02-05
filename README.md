@@ -20,7 +20,7 @@
 </td>
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=a7sPq8UA3pg">
+<a href="https://youtu.be/UNBKoDHfHKQ">
 <strong>Listen to cool music</strong>
 <br />
 <br />
