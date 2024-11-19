@@ -29,13 +29,3 @@
 </td>
 </tr>
 </table>
-
-
-<!-- Footer -->
-
-<div align="center">
-
-
-![Visitor Count](https://profile-counter.glitch.me/anilgurses/count.svg)
-
-</div>
